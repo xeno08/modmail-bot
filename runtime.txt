@@ -1,1 +1,1 @@
-python 3.9 (64-bit)
+PyCharm 2021.2
